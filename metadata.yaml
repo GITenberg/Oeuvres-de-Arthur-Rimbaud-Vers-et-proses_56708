@@ -1,5 +1,5 @@
 _repo: Oeuvres-de-Arthur-Rimbaud-Vers-et-proses_56708
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   annotator:
     agent_name: Berrichon, Paterne
@@ -11,6 +11,9 @@ contributor:
     deathdate: 1955
     gutenberg_agent_id: '43686'
     url: http://www.gutenberg.org/2009/agents/43686
+covers:
+- cover_type: archival
+  image_path: 56708-h/images/cover.jpg
 creator:
   author:
     agent_name: Rimbaud, Arthur
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33825
     wikipedia: http://fr.wikipedia.org/wiki/Arthur_Rimbaud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56708#Oeuvres-de-Arthur-Rimbaud-Vers-et-proses
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Poésie
